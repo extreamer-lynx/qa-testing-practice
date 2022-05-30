@@ -1,0 +1,55 @@
+{
+  "version": 2,
+  "dgSpecHash": "ln5/l0zQOXRx+ytx+lIVWfI8Huy6aLV/LZTlen8NRrCIpLZaMw/igHJktiVFIeHByhc5d9sPmaof0ODQXMiA0w==",
+  "success": true,
+  "projectFilePath": "/Users/vladfrancuk/Desktop/QA/Lab6/Lab5/Lab5.csproj",
+  "expectedPackageFiles": [
+    "/Users/vladfrancuk/.nuget/packages/allure.commons/3.5.0.73/allure.commons.3.5.0.73.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/allurereport.generator/0.1.0/allurereport.generator.0.1.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/aspectinjector/2.6.0/aspectinjector.2.6.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/faker.net/2.0.154/faker.net.2.0.154.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.codecoverage/17.1.0/microsoft.codecoverage.17.1.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.extensions.configuration/6.0.1/microsoft.extensions.configuration.6.0.1.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.extensions.configuration.binder/6.0.0/microsoft.extensions.configuration.binder.6.0.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.extensions.configuration.json/6.0.0/microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.net.test.sdk/17.1.0/microsoft.net.test.sdk.17.1.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.testplatform.objectmodel/17.1.0/microsoft.testplatform.objectmodel.17.1.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/microsoft.testplatform.testhost/17.1.0/microsoft.testplatform.testhost.17.1.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/mimetypesmap/1.0.8/mimetypesmap.1.0.8.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/nunit.allure/1.2.1.1/nunit.allure.1.2.1.1.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/nunit.analyzers/3.3.0/nunit.analyzers.3.3.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/nunit3testadapter/4.2.1/nunit3testadapter.4.2.1.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/selenium.support/4.1.1/selenium.support.4.1.1.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/selenium.webdriver/4.1.1/selenium.webdriver.4.1.1.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/selenium.webdriver.chromedriver/101.0.4951.4100/selenium.webdriver.chromedriver.101.0.4951.4100.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/specflow3.allure/3.0.225/specflow3.allure.3.0.225.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/Users/vladfrancuk/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'SpecFlow3.Allure 3.0.225' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "SpecFlow3.Allure",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}

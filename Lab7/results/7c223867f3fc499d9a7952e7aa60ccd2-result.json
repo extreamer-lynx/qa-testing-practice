@@ -1,0 +1,72 @@
+{
+  "uuid": "1269e8be-de15-4db4-8168-6640bf506ed7-tr-0-1001",
+  "historyId": "Lab5.UnitTest1.AddNewVeterinarTest",
+  "fullName": "Lab5.UnitTest1.AddNewVeterinarTest",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "MBP-Vlad"
+    },
+    {
+      "name": "package",
+      "value": "Lab5"
+    },
+    {
+      "name": "testMethod",
+      "value": "AddNewVeterinarTest"
+    },
+    {
+      "name": "testClass",
+      "value": "UnitTest1"
+    },
+    {
+      "name": "tag",
+      "value": "AddNewVeterinarTest"
+    }
+  ],
+  "links": [],
+  "name": "AddNewVeterinarTest",
+  "status": "failed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "System.UnauthorizedAccessException : Access to the path '/Users/vladfrancuk/Desktop/QA/Lab6/results/' is denied.\n  ----> System.IO.IOException : Permission denied\nTearDown : System.UnauthorizedAccessException : Access to the path '/Users/vladfrancuk/Desktop/QA/Lab6/results/' is denied.\n  ----> System.IO.IOException : Permission denied",
+    "trace": "   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)\n   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)\n   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)\n   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)\n   at System.IO.File.ReadAllBytes(String path)\n   at Allure.Commons.AllureLifecycle.AddAttachment(String name, String type, String path)\n   at Allure.Commons.AllureLifecycle.AddAttachment(String path, String name)\n   at Lab5.TestsBase.SaveScreenshot() in /Users/vladfrancuk/Desktop/QA/Lab6/Lab5/TestBase.cs:line 35\n   at Lab5.UnitTest1.AddNewVeterinarTest() in /Users/vladfrancuk/Desktop/QA/Lab6/Lab5/UnitTest1.cs:line 57\n--IOException\n\n--TearDown\n   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)\n   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)\n   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)\n   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)\n   at System.IO.File.ReadAllBytes(String path)\n   at Allure.Commons.AllureLifecycle.AddAttachment(String name, String type, String path)\n   at Allure.Commons.AllureLifecycle.AddAttachment(String path, String name)\n   at Lab5.TestsBase.SaveScreenshot() in /Users/vladfrancuk/Desktop/QA/Lab6/Lab5/TestBase.cs:line 35\n   at Lab5.TestsBase.Teardown() in /Users/vladfrancuk/Desktop/QA/Lab6/Lab5/TestBase.cs:line 43\n--IOException\n"
+  },
+  "stage": "finished",
+  "description": "\nTeardown TearDown method failed\n",
+  "steps": [
+    {
+      "name": "AddNewVeterinarTest",
+      "status": "failed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false,
+        "message": "System.UnauthorizedAccessException : Access to the path '/Users/vladfrancuk/Desktop/QA/Lab6/results/' is denied.\n  ----> System.IO.IOException : Permission denied\nTearDown : System.UnauthorizedAccessException : Access to the path '/Users/vladfrancuk/Desktop/QA/Lab6/results/' is denied.\n  ----> System.IO.IOException : Permission denied",
+        "trace": "   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)\n   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)\n   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)\n   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)\n   at System.IO.File.ReadAllBytes(String path)\n   at Allure.Commons.AllureLifecycle.AddAttachment(String name, String type, String path)\n   at Allure.Commons.AllureLifecycle.AddAttachment(String path, String name)\n   at Lab5.TestsBase.SaveScreenshot() in /Users/vladfrancuk/Desktop/QA/Lab6/Lab5/TestBase.cs:line 35\n   at Lab5.UnitTest1.AddNewVeterinarTest() in /Users/vladfrancuk/Desktop/QA/Lab6/Lab5/UnitTest1.cs:line 57\n--IOException\n\n--TearDown\n   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String path, OpenFlags flags, Int32 mode)\n   at Microsoft.Win32.SafeHandles.SafeFileHandle.Open(String fullPath, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)\n   at System.IO.Strategies.OSFileStreamStrategy..ctor(String path, FileMode mode, FileAccess access, FileShare share, FileOptions options, Int64 preallocationSize)\n   at System.IO.Strategies.FileStreamHelpers.ChooseStrategy(FileStream fileStream, String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, Int64 preallocationSize)\n   at System.IO.File.ReadAllBytes(String path)\n   at Allure.Commons.AllureLifecycle.AddAttachment(String name, String type, String path)\n   at Allure.Commons.AllureLifecycle.AddAttachment(String path, String name)\n   at Lab5.TestsBase.SaveScreenshot() in /Users/vladfrancuk/Desktop/QA/Lab6/Lab5/TestBase.cs:line 35\n   at Lab5.TestsBase.Teardown() in /Users/vladfrancuk/Desktop/QA/Lab6/Lab5/TestBase.cs:line 43\n--IOException\n"
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "fa36de42e8ed482e8d606509d80c87a0-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1653851654824,
+      "stop": 1653851667981
+    }
+  ],
+  "attachments": [],
+  "parameters": [],
+  "start": 1653851654823,
+  "stop": 1653851667983
+}

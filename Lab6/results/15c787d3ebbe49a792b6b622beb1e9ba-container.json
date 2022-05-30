@@ -1,0 +1,44 @@
+{
+  "uuid": "ce515879-a4f8-42c1-b600-5bddab70e1e8-tc-0-1015",
+  "name": "Lab5.tests.SpecialityTests.EditFirstSpecialityTest(\"AndTheLastName\")",
+  "children": [
+    "b83b1870-2509-4722-9f3b-6640d073ce02-tr-0-1024"
+  ],
+  "befores": [
+    {
+      "name": "Setup",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1653856080312,
+      "stop": 1653856080312
+    }
+  ],
+  "afters": [
+    {
+      "name": "Teardown",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [],
+      "parameters": [],
+      "start": 1653856080312,
+      "stop": 1653856080312
+    }
+  ],
+  "links": [],
+  "start": 1653856067030,
+  "stop": 1653856080323
+}

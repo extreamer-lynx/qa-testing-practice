@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{F776A54E-FFF1-4DFF-9B14-A5483AC2A22A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab5/UnitTest1.cs">
+    <Files>
+      <File FileName="Lab5/UnitTest1.cs" Line="168" Column="1" />
+      <File FileName="Lab5/PageObject/SpecialityPage.cs" Line="50" Column="1" />
+      <File FileName="Lab5/models/PetType.cs" Line="12" Column="42" />
+      <File FileName="Lab5/TestData.json" Line="32" Column="6" />
+      <File FileName="Lab5/models/Veterenar.cs" Line="22" Column="16" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab5" expanded="True">
+            <Node name="Lab5" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Lab5" expanded="True">
+            <Node name="Lab5" expanded="True">
+              <Node name="Lab5" expanded="True">
+                <Node name="UnitTest1" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Lab5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{F54DEA9E-A6F1-4193-AC58-B3A5F3CD6B7B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab4/UnitTest1.cs">
+    <Files>
+      <File FileName="Lab4/PageObject/PetTypePage.cs" Line="27" Column="23" />
+      <File FileName="Lab4/TestBase.cs" Line="1" Column="1" />
+      <File FileName="Lab4/PageObject/VeterinarsPage.cs" Line="24" Column="1" />
+      <File FileName="Lab4/UnitTest1.cs" Line="113" Column="43" />
+      <File FileName="Lab4/PageObject/SpecialityPage.cs" Line="60" Column="31" />
+      <File FileName="Lab4/PageObject/HomePage.cs" Line="55" Column="31" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab4" expanded="True">
+            <Node name="Lab4" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Lab4" expanded="True">
+            <Node name="Lab4" expanded="True">
+              <Node name="Lab4" expanded="True">
+                <Node name="UnitTest1" expanded="True">
+                  <Node name="AddNewOwnerTest" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Lab4 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

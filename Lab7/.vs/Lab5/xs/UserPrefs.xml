@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{F776A54E-FFF1-4DFF-9B14-A5483AC2A22A}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lab5/UnitTest1.cs">
+    <Files>
+      <File FileName="Lab5/UnitTest1.cs" Line="215" Column="61" />
+      <File FileName="Lab5/PageObject/SpecialityPage.cs" Line="50" Column="1" />
+      <File FileName="Lab5/models/PetType.cs" Line="12" Column="42" />
+      <File FileName="Lab5/TestData.json" Line="32" Column="6" />
+      <File FileName="Lab5/models/Veterenar.cs" Line="22" Column="16" />
+      <File FileName="Lab5/TestBase.cs" Line="35" Column="66" />
+      <File FileName="Lab5/Lab5.csproj" Line="44" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lab5" expanded="True">
+            <Node name="Lab5" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="models" expanded="True" />
+              <Node name="PageObject" expanded="True" />
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Lab5" expanded="True">
+            <Node name="Lab5" expanded="True">
+              <Node name="Lab5" expanded="True">
+                <Node name="UnitTest1" expanded="True">
+                  <Node name="DeleteFirstPetTypesTest" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lab5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

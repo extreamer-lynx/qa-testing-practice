@@ -1,0 +1,73 @@
+{
+  "uuid": "b83b1870-2509-4722-9f3b-6640d073ce02-tr-0-1024",
+  "historyId": "Lab5.tests.SpecialityTests.EditFirstSpecialityTest(\"AndTheLastName\")",
+  "fullName": "Lab5.tests.SpecialityTests.EditFirstSpecialityTest(\"AndTheLastName\")",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "ParallelWorker#2"
+    },
+    {
+      "name": "host",
+      "value": "MBP-Vlad"
+    },
+    {
+      "name": "package",
+      "value": "Lab5.tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "EditFirstSpecialityTest"
+    },
+    {
+      "name": "testClass",
+      "value": "SpecialityTests"
+    },
+    {
+      "name": "tag",
+      "value": "EditFirstSpecialityTest"
+    }
+  ],
+  "links": [],
+  "name": "EditFirstSpecialityTest(\"AndTheLastName\")",
+  "status": "passed",
+  "statusDetails": {
+    "known": false,
+    "muted": false,
+    "flaky": false,
+    "message": "EditFirstSpecialityTest(\"AndTheLastName\")"
+  },
+  "stage": "finished",
+  "steps": [
+    {
+      "name": "EditFirstSpecialityTest(\"AndTheLastName\")",
+      "status": "passed",
+      "statusDetails": {
+        "known": false,
+        "muted": false,
+        "flaky": false
+      },
+      "stage": "finished",
+      "steps": [],
+      "attachments": [
+        {
+          "name": "Console Output",
+          "source": "7d0ebc61bc5d4743bdf89f72c6aeea7e-attachment.txt",
+          "type": "text/plain"
+        }
+      ],
+      "parameters": [],
+      "start": 1653856067031,
+      "stop": 1653856080314
+    }
+  ],
+  "attachments": [],
+  "parameters": [
+    {
+      "name": "Param #0",
+      "value": "AndTheLastName"
+    }
+  ],
+  "start": 1653856067031,
+  "stop": 1653856080316
+}
